@@ -1,0 +1,11 @@
+{
+    "name": "Card Clash Of Clans",
+    "short_name": "Clash",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#00000",
+    "theme_color": "#00000",
+    "description": "Aventuras de Clash of Clans",
+    "orientation": "natural"
+
+}
